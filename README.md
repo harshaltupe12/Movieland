@@ -27,4 +27,4 @@ Contributions are welcome! If you'd like to improve Movie Land or add new featur
 License:
 This project is open-source and available under the MIT License.
 
-Explore the world of movies like never before with Movie Land. Start your cinematic journey today!
+Explore the world of movies like never before with Movie Land. Start your cinematic journey today!!
